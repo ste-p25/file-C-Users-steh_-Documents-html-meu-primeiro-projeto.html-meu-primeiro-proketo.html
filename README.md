@@ -1,4 +1,4 @@
-# Yoga Interface
+# Yoga Login Interface
 
 
 
@@ -24,21 +24,11 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto da Stê"/><br>
+        <img src="./assents/eu.jpg" width="100px;" alt="Foto da Stê"/><br>
         <sub>
           <b>Stê</b>
         </sub>
   </tr>
 </table>
 
-
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
 
